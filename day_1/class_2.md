@@ -6,7 +6,7 @@
 
 ### 1. Figma 소개
 
-<img src="./src/9.png" />
+<img src="./src/figma_trend.png" />
 
 Figma는 웹 기반의 UI(사용자 인터페이스) 및 UX(사용자 경험) 디자인 툴입니다. 웹 브라우저에서 직접 작업하고 실시간으로 여러 사람과 협업할 수 있다는 점이 가장 큰 특징이자 장점입니다.
 
@@ -43,24 +43,37 @@ Figma는 웹 기반의 UI(사용자 인터페이스) 및 UX(사용자 경험) �
 
 새로 생성된 Figma 파일의 인터페이스는 다음과 같이 구성됩니다.
 
-- **상단 메뉴 바 (Top Bar):**
-  - Figma 로고 (파일 메뉴), Move tool (V), Frame tool (F) 등 핵심 도구 아이콘.
-  - Share 버튼 (협업 기능).
-  - 파일 이름 변경 (`Untitled` 클릭).
-- **좌측 패널 (Layers Panel):**
-  - **Layers (레이어):** 오브젝트(도형, 텍스트, 이미지 등)의 층(순서) 표시. 포토샵/일러스트레이터의 레이어 개념과 유사.
-  - **Assets (에셋):** 재사용 가능한 컴포넌트 모음.
-  - **Pages (페이지):** 여러 개의 디자인 페이지 생성 및 관리.
-- **중앙 캔버스 (Canvas):**
-  - 실제 디자인 작업이 이루어지는 공간.
-  - `Ctrl/Cmd + 마우스 휠` 또는 `Z + 드래그`로 확대/축소, `Space Bar + 드래그`로 화면 이동.
-- **우측 속성 패널 (Properties Panel / Design Panel):**
-  - 선택된 오브젝트의 속성(크기, 색상, 테두리, 그림자 등) 변경.
-  - **Design:** 선택된 오브젝트의 시각적 속성 설정.
-  - **Prototype:** 오브젝트 간의 상호작용(버튼 클릭 시 페이지 이동 등) 설정.
-  - **Inspect:** 선택된 디자인의 CSS/iOS/Android 코드 속성 표시. 개발자에게 특히 유용하며, HTML/CSS 코드로 직접 변환 가능.
+<img src="./src/figma_screen.png" />
+
+- **1. 하단 메뉴 바:**
+  - Move tool (V), Frame tool (F) 등 핵심 도구 아이콘
+  - 스케치 모드, 디자인 모드, 개발 모드 전환
+- **2. Draft 메뉴**
+  - Draft 저장 및 내보내기와 같은 메뉴가 있음
+  - 파일 이름 변경 가능 (`Untitled` 클릭)
+  - 맨 오른쪽 창문 아이콘으로 메뉴 UI를 껏다켤 수 있음
+- **3. Home 및 Draft 탭**
+  - Home으로 이동
+  - 열려있는 Draft를 Tab으로 보여줍니다
+  - 껏다켜도 컴퓨터에서 연 Tab은 유지
+- **4. Page**
+  - 피그마는 Draft에서 여러 공간을 만들 수 있는데 그 공간을 Page라고 합니다.
+  - Page 추가/삭제/이동
+- **5. Layer**
+  - 오브젝트(도형, 텍스트, 이미지 등)들의 층(순서)을 보여주는 곳
+  - 포토샵/일러스트레이터의 레이어 개념과 유사
+- **6. Share/Play 및 편집자 표시**
+  - 프로필 사진: 현재 Draft를 편집 중인 사람들의 프로필입니다.
+  - 재생버튼: 제작한 Prototype을 실행합니다.
+  - Share: Draft를 공유합니다.
+- **7. 속성**
+  - 선택된 레이어 또는 Draft의 속성을 관리합니다.
+- **8. Canvas**
+  - 오브젝트를 배치할 수 있는 공간입니다.
 
 **핵심 도구 간단 설명:**
+
+<img src="./src/figma_bottom_menu.png" />
 
 - **Move tool (V):** 오브젝트 선택 및 이동.
 - **Frame tool (F):** 디자인 작업 영역(화면 크기) 생성.
@@ -82,11 +95,27 @@ Figma는 웹 기반의 UI(사용자 인터페이스) 및 UX(사용자 경험) �
 
 #### 4.2. 배운 기능을 활용한 예제 따라 만들기
 
+<div style="display: flex; gap: 20px; margin-bottom: 20px;">
+  <img src="./practice/2-4-1.png" width="50%" />
+  <img src="./practice/2-4-2.png" width="50%" />
+</div>
+
 - **실습 1: 기본 도형 그리기 및 속성 변경**
   - 사각형, 원, 선 각각 하나씩 그리기.
   - 각 도형의 `Fill` 색상 다르게 변경.
   - 사각형의 `Corner Radius` 조절.
   - 원에 `Stroke` 추가 및 두께 변경.
+
+<div style="display: flex; gap: 20px; margin-bottom: 20px;">
+  <img src="./practice/2-4-3.png" width="50%" />
+  <img src="./practice/2-4-4.png" width="50%" />
+</div>
+
+<div style="display: flex; gap: 20px; margin-bottom: 20px;">
+  <img src="./practice/2-4-5.png" width="50%" />
+  <img src="./practice/2-4-6.png" width="50%" />
+</div>
+
 - **실습 2: 도형 복사, 이동, 크기 조절**
   - **선택:** `Move tool (V)`로 도형 선택.
   - **이동:** 선택된 도형 드래그 또는 화살표 키로 이동.

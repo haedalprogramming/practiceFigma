@@ -12,7 +12,7 @@
 
 **핵심 구성 요소:**
 
-<img src="./src/1.png" />
+<img src="./src/web_component.png" />
 
 - **웹 페이지 (Web Page):** 시각적으로 제공되는 정보의 단위.
 - **웹사이트 (Website):** 다수의 웹 페이지로 구성된 정보 묶음.
@@ -28,7 +28,7 @@
 
 #### 1.3. 웹 작동 방식
 
-<img src="./src/2.png" />
+<img src="./src/web_working.png" />
 
 1.  사용자가 브라우저에 주소(URL) 입력.
 2.  브라우저가 해당 웹 서버에 웹 페이지 파일 요청.
@@ -39,7 +39,7 @@
 
 웹 개발은 건물의 설계(디자인), 외관(프론트엔드), 내부 시스템(백엔드)을 담당하는 건축과 유사하게 다양한 역할로 나뉩니다.
 
-<img src="./src/3.png" />
+<img src="./src/fullstack.png" />
 
 - **프론트엔드 (Frontend):**
 
@@ -75,7 +75,7 @@
 
 #### 3.3. UI와 UX의 관계 및 중요성
 
-<img src="./src/4.png" />
+<img src="./src/ui_vs_ux.png" />
 
 - UI는 UX의 한 부분으로, 좋은 UI는 좋은 UX를 위한 중요한 도구입니다. 그러나 UI가 좋다고 해서 UX가 항상 좋은 것은 아닙니다.
 - **비유:** "보기 좋은 떡이 먹기도 좋다"는 UI의 중요성을, "먹기 편해야 다시 찾는다"는 UX의 중요성을 비유할 수 있습니다.
@@ -86,7 +86,7 @@ Figma는 UI/UX 디자인을 효율적으로 수행할 수 있도록 돕는 도�
 ### 4. 디자인 유행
 
 <div style="display: flex; align-items: center; gap: 24px; margin-bottom: 30px;">
-  <img src="./src/5.png" style="width: 50%" />
+  <img src="./src/yahoo.png" style="width: 50%" />
   <div>
     <strong>1990s ~ 2000s</strong><br>
     <strong>이미지, 사진 위주의 정적 디자인:</strong><br>
@@ -95,16 +95,16 @@ Figma는 UI/UX 디자인을 효율적으로 수행할 수 있도록 돕는 도�
 </div>
 
 <div style="display: flex; align-items: center; gap: 24px; margin-bottom: 30px;">
-  <img src="./src/6.png" style="width: 50%" />
+  <img src="./src/skeuomorphism.png" style="width: 50%" />
   <div>
     <strong>2000s ~ 2010s</strong><br>
     <strong>스큐어모피즘 (사실적 묘사):</strong><br>
-    Web 2.0의 시대와 함께 사용자끼리의 상호작용 강조.CSS와 JavaScript의 사용이 많아지고 동적인 요소가 많아짐. 그라데이션, 반사 효과, 그림자 등 사실적으로 표현하는 스타일이 유행함. 사용자 참여를 유도하고 웹사이트의 시각적 매력을 높이는 것을 목표
+    Web 2.0의 시대와 함께 사용자끼리의 상호작용 강조. CSS와 JavaScript의 사용이 많아지고 동적인 요소가 많아짐. 그라데이션, 반사 효과, 그림자 등 사실적으로 표현하는 스타일이 유행함. 사용자 참여를 유도하고 웹사이트의 시각적 매력을 높이는 것을 목표
   </div>
 </div>
 
 <div style="display: flex; align-items: center; gap: 24px; margin-bottom: 30px;">
-  <img src="./src/7.png" style="width: 50%" />
+  <img src="./src/flat_style.png" style="width: 50%" />
   <div>
     <strong>2010s ~ 2016s</strong><br>
     <strong>미니멀리즘 (최소화):</strong><br>
@@ -113,7 +113,7 @@ Figma는 UI/UX 디자인을 효율적으로 수행할 수 있도록 돕는 도�
 </div>
 
 <div style="display: flex; align-items: center; gap: 24px;">
-  <img src="./src/8.png" style="width: 50%" />
+  <img src="./src/glassmophism.png" style="width: 50%" />
   <div>
     <strong>2016s ~ 현재</strong><br>
     <strong>접근성 및 개인화 강화:</strong><br>
