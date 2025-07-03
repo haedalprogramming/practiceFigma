@@ -1,6 +1,6 @@
 <img src="./header.png" />
 
-### 6일차: CSS 박스 모델 및 레이아웃, Netlify 배포
+# 6일차: CSS 박스 모델 및 레이아웃, Netlify 배포
 
 - **1교시: 박스 모델 이해 및 활용**
 
