@@ -1,5 +1,11 @@
 <img src="./header.png" />
 
+# 1일차 강의자료
+
+- [lecture.pdf](./lecture.pdf)
+
+---
+
 ### 1일차: 웹 디자인 기초 및 Figma 시작하기
 
 - **1교시: 웹 디자인의 이해**
