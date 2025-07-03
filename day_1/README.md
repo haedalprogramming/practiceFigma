@@ -24,6 +24,8 @@
 
 **핵심 구성 요소:**
 
+<img src="./src/1.png" />
+
 - **웹 페이지 (Web Page):** 시각적으로 제공되는 정보의 단위.
 - **웹사이트 (Website):** 다수의 웹 페이지로 구성된 정보 묶음.
 - **웹 브라우저 (Web Browser):** 웹 페이지 열람 및 상호작용을 위한 프로그램 (예: Chrome, Edge, Safari).
@@ -38,6 +40,8 @@
 
 #### 1.3. 웹 작동 방식 (간략)
 
+<img src="./src/2.png" />
+
 1.  사용자가 브라우저에 주소(URL) 입력.
 2.  브라우저가 해당 웹 서버에 웹 페이지 파일 요청.
 3.  웹 서버는 요청받은 HTML, CSS, JavaScript 파일 등을 브라우저에 전송.
@@ -46,6 +50,8 @@
 ### 2. 프론트엔드, 백엔드, 풀스택 개발자의 역할
 
 웹 개발은 건물의 설계(디자인), 외관(프론트엔드), 내부 시스템(백엔드)을 담당하는 건축과 유사하게 다양한 역할로 나뉩니다.
+
+<img src="./src/3.png" />
 
 - **프론트엔드 (Frontend):**
 
@@ -81,13 +87,53 @@
 
 #### 3.3. UI와 UX의 관계 및 중요성
 
+<img src="./src/4.png" />
+
 - UI는 UX의 한 부분으로, 좋은 UI는 좋은 UX를 위한 중요한 도구입니다. 그러나 UI가 좋다고 해서 UX가 항상 좋은 것은 아닙니다.
 - **비유:** "보기 좋은 떡이 먹기도 좋다"는 UI의 중요성을, "먹기 편해야 다시 찾는다"는 UX의 중요성을 비유할 수 있습니다.
 - **중요성:** 사용자 만족도 증가, 재방문율/전환율 상승, 브랜드 이미지 개선 등 비즈니스 성공에 직결됩니다.
 
 Figma는 UI/UX 디자인을 효율적으로 수행할 수 있도록 돕는 도구입니다.
 
-### 4. 웹 디자인 트렌드 소개
+### 4. 디자인 유행
+
+<div style="display: flex; align-items: center; gap: 24px; margin-bottom: 30px;">
+  <img src="./src/5.png" style="width: 50%" />
+  <div>
+    <strong>1990s ~ 2000s</strong><br>
+    <strong>이미지, 사진 위주의 정적 디자인:</strong><br>
+    HTML 중심의 정적인 페이지 위주, Web 1.0. 색상을 많이 표현할 수 없었던 시대였으며 PC에 기본으로 설치된 폰트가 많이 사용되었습니다. 정보를 빠르고 효율적으로 전달하는 것을 중요히 여겼음
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; gap: 24px; margin-bottom: 30px;">
+  <img src="./src/6.png" style="width: 50%" />
+  <div>
+    <strong>2000s ~ 2010s</strong><br>
+    <strong>스큐어모피즘 (사실적 묘사):</strong><br>
+    Web 2.0의 시대와 함께 사용자끼리의 상호작용 강조.CSS와 JavaScript의 사용이 많아지고 동적인 요소가 많아짐. 그라데이션, 반사 효과, 그림자 등 사실적으로 표현하는 스타일이 유행함. 사용자 참여를 유도하고 웹사이트의 시각적 매력을 높이는 것을 목표
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; gap: 24px; margin-bottom: 30px;">
+  <img src="./src/7.png" style="width: 50%" />
+  <div>
+    <strong>2010s ~ 2016s</strong><br>
+    <strong>미니멀리즘 (최소화):</strong><br>
+    Flat Design과 Material Design의 유행. 사실과 비슷하게 표현하는 스큐어모피즘과 달리 미니멀리즘은 최소한의 오브젝트로 표현하는 것을 목표로 함. 시각적으로 많이 피곤하지 않은 디자인이 유행 시작
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; gap: 24px;">
+  <img src="./src/8.png" style="width: 50%" />
+  <div>
+    <strong>2016s ~ 현재</strong><br>
+    <strong>접근성 및 개인화 강화:</strong><br>
+    네오모피즘, 글래스모피즘 등 스큐어모피즘과 플랫 디자인이 혼합된 파생이 많아짐. Dynamic한 시각적 다양성을 추구, 스크롤 애니메이션, 3D 요소 등 새로운 상호작용 방식이 생겨남. 다크 테마와 같은 사용자의 개별적인 스타일링 제공
+  </div>
+</div>
+
+### 5. 웹 디자인 트렌드 소개
 
 - **반응형 웹 디자인 (Responsive Web Design):** 데스크톱, 태블릿, 모바일 등 다양한 기기 환경에서 최적화된 화면을 제공하는 디자인 방식입니다. Figma에서는 다양한 디바이스 프레임을 활용하여 반응형 디자인을 시뮬레이션할 수 있습니다.
 - **모바일 퍼스트 (Mobile First):** 웹 디자인 시 모바일 환경을 가장 먼저 고려하고, 이후 태블릿, 데스크톱 순으로 확장해나가는 전략입니다. 모바일 사용자 증가로 인해 중요성이 부각되었습니다.
@@ -102,6 +148,8 @@ Figma는 UI/UX 디자인을 효율적으로 수행할 수 있도록 돕는 도�
 > [목차로 돌아가기](#목차)
 
 ### 1. Figma 소개
+
+<img src="./src/9.png" />
 
 Figma는 웹 기반의 UI(사용자 인터페이스) 및 UX(사용자 경험) 디자인 툴입니다. 웹 브라우저에서 직접 작업하고 실시간으로 여러 사람과 협업할 수 있다는 점이 가장 큰 특징이자 장점입니다.
 
