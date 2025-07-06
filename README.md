@@ -72,6 +72,8 @@
 - [10. 실습 4: 간단한 로그인 페이지](./day_4/10-Practice-4.md)
 - [11. 실습 5: Modal 창 띄우기](./day_4/11-Practice-5.md)
 
+<img src="./day_5/header.png" />
+
 ### [Day 5: HTML/CSS 고급 활용 1 – 반응형 웹과 변수](./XX-Still-Writing.md)
 
 - [01. CSS 전역 변수 (Custom Properties)](./XX-Still-Writing.md)
@@ -80,6 +82,8 @@
 - [04. @media를 활용한 테마 설정 (prefers-color-scheme)](./XX-Still-Writing.md)
 - [05. 실습 1: 반응형 카드 UI 만들기](./XX-Still-Writing.md)
 - [06. 실습 2: 다크/라이트 테마 토글 만들기 (자바스크립트 X)](./XX-Still-Writing.md)
+
+<img src="./day_6/header.png" />
 
 ### [Day 6: HTML/CSS 고급 활용 2 – 테마와 사용자 정의 속성](./XX-Still-Writing.md)
 
@@ -90,6 +94,8 @@
 - [05. 실습 1: 토글 버튼으로 테마 바꾸기 (JS 포함)](./XX-Still-Writing.md)
 - [06. 실습 2: 전체 사이트에 테마 적용하기](./XX-Still-Writing.md)
 
+<img src="./day_7/header.png" />
+
 ### [Day 7: AI를 활용한 HTML & CSS 개발 보조](./XX-Still-Writing.md)
 
 - [01. ChatGPT를 활용한 코드 초안 작성](./XX-Still-Writing.md)
@@ -97,6 +103,8 @@
 - [03. 코드 리뷰 및 개선 요청하기 (AI를 통한 협업)](./XX-Still-Writing.md)
 - [04. 실습 1: Figma 디자인을 설명하고 코드 생성 요청하기](./XX-Still-Writing.md)
 - [05. 실습 2: CSS 버그를 AI와 함께 해결해보기](./XX-Still-Writing.md)
+
+<img src="./day_8/header.png" />
 
 ### [Day 8: 포트폴리오 사이트 디자인 및 발표](./XX-Still-Writing.md)
 
