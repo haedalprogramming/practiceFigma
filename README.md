@@ -71,3 +71,37 @@
 - [09. 실습 3: 개인 프로필 카드 만들기](./day_4/09-Practice-3.md)
 - [10. 실습 4: 간단한 로그인 페이지](./day_4/10-Practice-4.md)
 - [11. 실습 5: Modal 창 띄우기](./day_4/11-Practice-5.md)
+
+### [Day 5: HTML/CSS 고급 활용 1 – 반응형 웹과 변수](./XX-Still-Writing.md)
+
+- [01. CSS 전역 변수 (Custom Properties)](./XX-Still-Writing.md)
+- [02. 반응형 웹의 기본 원리 이해하기](./XX-Still-Writing.md)
+- [03. @media를 활용한 해상도 대응](./XX-Still-Writing.md)
+- [04. @media를 활용한 테마 설정 (prefers-color-scheme)](./XX-Still-Writing.md)
+- [05. 실습 1: 반응형 카드 UI 만들기](./XX-Still-Writing.md)
+- [06. 실습 2: 다크/라이트 테마 토글 만들기 (자바스크립트 X)](./XX-Still-Writing.md)
+
+### [Day 6: HTML/CSS 고급 활용 2 – 테마와 사용자 정의 속성](./XX-Still-Writing.md)
+
+- [01. HTML의 `data-*` 속성 이해하기](./XX-Still-Writing.md)
+- [02. `data-theme`을 활용한 테마 전환](./XX-Still-Writing.md)
+- [03. 다크/라이트 테마 커스터마이징 (CSS 변수 기반)](./XX-Still-Writing.md)
+- [04. CSS 전환 애니메이션으로 부드러운 테마 전환](./XX-Still-Writing.md)
+- [05. 실습 1: 토글 버튼으로 테마 바꾸기 (JS 포함)](./XX-Still-Writing.md)
+- [06. 실습 2: 전체 사이트에 테마 적용하기](./XX-Still-Writing.md)
+
+### [Day 7: AI를 활용한 HTML & CSS 개발 보조](./XX-Still-Writing.md)
+
+- [01. ChatGPT를 활용한 코드 초안 작성](./XX-Still-Writing.md)
+- [02. 시안 설명으로부터 코드 생성하기 (프롬프트 작성법)](./XX-Still-Writing.md)
+- [03. 코드 리뷰 및 개선 요청하기 (AI를 통한 협업)](./XX-Still-Writing.md)
+- [04. 실습 1: Figma 디자인을 설명하고 코드 생성 요청하기](./XX-Still-Writing.md)
+- [05. 실습 2: CSS 버그를 AI와 함께 해결해보기](./XX-Still-Writing.md)
+
+### [Day 8: 포트폴리오 사이트 디자인 및 발표](./XX-Still-Writing.md)
+
+- [01. 나만의 포트폴리오 주제 정하기](./XX-Still-Writing.md)
+- [02. Figma로 와이어프레임 및 시안 제작](./XX-Still-Writing.mdd)
+- [03. HTML/CSS 기반의 정적 웹사이트 구축](./XX-Still-Writing.md)
+- [04. 실습: 개별 포트폴리오 사이트 만들기](./XX-Still-Writing.md)
+- [05. 발표 및 피드백](./XX-Still-Writing.mdd)
