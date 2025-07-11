@@ -73,25 +73,31 @@
 
 <img src="./day_5/header.png" />
 
-### [Day 5: HTML/CSS 고급 활용 1 – 반응형 웹과 변수](./day_5/README.md)
+### [Day 5: UI/UX 심화 및 Figma 고급 활용](./day_5/README.md)
 
-- [01. CSS 전역 변수 (Custom Properties)](./day_5/01-CSS-Global-Variables.md)
-- [02. 반응형 웹의 기본 원리 이해하기](./day_5/02-Responsive-Web-Basics.md)
-- [03. @media를 활용한 해상도 대응](./day_5/03-Media-Queries-for-Resolution.md)
-- [04. @media를 활용한 테마 설정 (prefers-color-scheme)](./day_5/04-Media-Queries-for-Theme.md)
-- [05. 실습 1: 반응형 카드 UI 만들기](./day_5/05-Practice-1-Responsive-Card-UI.md)
-- [06. 실습 2: 다크/라이트 테마 토글 만들기 (자바스크립트 X)](./day_5/06-Practice-2-Theme-Toggle-No-JS.md)
+- [01. Figma 학생 인증으로 유료 기능 활성화하기]()
+- [02. 다양한 상황에서의 시각적 밸런스]()
+- [03. 접근성이 나쁜 UI/UX와 해결 방안]()
+- [04. 시각적 계층 구조 잡기]()
+- [05. Auto Layout을 적용해야하는 이유]()
+- [06. 실습 1: Auto Layout 연습]()
+- [07. Figma 변수(Variables) 활용하기]()
+- [08. Figma 변수 타입(Generics) 활용하기]()
+- [09. 실습 2: 다크/라이트 테마 디자인]()
+- [10. 실습 3: 사진 뷰어 웹앱 디자인]()
 
 <img src="./day_6/header.png" />
 
-### [Day 6: HTML/CSS 고급 활용 2 – 테마와 사용자 정의 속성](./day_6/README.md)
+### [Day 6: UI/UX 실력 더 키우기](./day_6/README.md)
 
-- [01. HTML의 `data-*` 속성 이해하기](./day_6/01-Understanding-Data-Attributes.md)
-- [02. `data-theme`을 활용한 테마 전환](./day_6/02-Theme-Switching-with-Data-Theme.md)
-- [03. 다크/라이트 테마 커스터마이징 (CSS 변수 기반)](./day_6/03-Customizing-Themes-with-CSS-Variables.md)
-- [04. CSS 전환 애니메이션으로 부드러운 테마 전환](./day_6/04-Smooth-Theme-Transitions-with-CSS.md)
-- [05. 실습 1: 토글 버튼으로 테마 바꾸기 (JS 포함)](./day_6/05-Practice-1-Theme-Toggle-with-JS.md)
-- [06. 실습 2: 전체 사이트에 테마 적용하기](./day_6/06-Practice-2-Applying-Themes-to-a-Whole-Site.md)
+1.  복습 1: Smart Animate로 부드러운 애니메이션 만들기
+2.  복습 2: 다양한 아이콘 디자인과 제작 규칙들
+3.  디자인 시스템의 개념과 구축 방법
+4.  효율적인 디자인 기획
+5.  내 디자인을 라이브러리로 만들기
+6.  실습 1: 라이브러리 만들기
+7.  실습 2: 상벌점 관리 시스템 디자인
+8.  발표: 내 라이브러리와 상벌점 관리 시스템을 소개하기
 
 <img src="./day_7/header.png" />
 
