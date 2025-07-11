@@ -60,17 +60,16 @@
 
 ### [Day 4: 프로토타입 만들기, HTML & CSS](./day_4/README.md)
 
-- [01. 프로토타입과 플로우](./day_4/01-Prototype-and-Flow.md)
-- [02. HTML이란?](./day_4/02-What-is-HTML.md)
-- [03. CSS란?](./day_4/03-What-is-CSS.md)
-- [04. Visual Studio Code](./day_4/04-Visual-Studio-Code.md)
-- [05. 개발자 도구](./day_4/05-Developer-Tool.md)
-- [06. Git과 GitHub](./day_4/06-GIt-GitHub.md)
-- [07. 실습 1: CSS로 Auto Layout 구현하기](./day_4/07-Practice-1.md)
-- [08. 실습 2: CSS 상대 위치, 절대 위치](./day_4/08-Practice-2.md)
-- [09. 실습 3: 개인 프로필 카드 만들기](./day_4/09-Practice-3.md)
-- [10. 실습 4: 간단한 로그인 페이지](./day_4/10-Practice-4.md)
-- [11. 실습 5: Modal 창 띄우기](./day_4/11-Practice-5.md)
+- [01. HTML이란?](./day_4/01-What-is-HTML.md)
+- [02. CSS란?](./day_4/02-What-is-CSS.md)
+- [03. Visual Studio Code](./day_4/03-Visual-Studio-Code.md)
+- [04. 개발자 도구](./day_4/04-Developer-Tool.md)
+- [05. 실습 1: 프로토타입에 화면 전환과 애니메이션 넣기](./day_4/05-Practice-1.md)
+- [06. 프로토타입과 플로우](./day_4/06-Prototype-and-Flow.md)
+- [07. 실습 2: 프로토타입에 화면 전환과 애니메이션 넣기](./day_4/07-Practice-1.md)
+- [08. 실습 3: 컴포넌트 상태와 인터랙션 추가하기](./day_4/08-Practice-2.md)
+- [09. 실습 4: Modal 창 띄우기](./day_4/09-Practice-3.md)
+- [10. 실습 5: 쇼핑 페이지 따라 만들기](./day_4/10-Practice-4.md)
 
 <img src="./day_5/header.png" />
 
