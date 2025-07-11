@@ -11,5 +11,5 @@
 - [07. Auto Layout](./07-Auto-Layout.md)
 - [08. Figma Plugins](./08-Figma-Plugins.md)
 - [09. 유용한 사이트](./09-Useful-Websites.md)
-- [10. 실습 1](./10.-Practice-1.md)
-- [11. 실습 2](./11.-Practice-2.md)
+- [10. 실습 1](./10-Practice-1.md)
+- [11. 실습 2](./11-Practice-2.md)
