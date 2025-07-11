@@ -74,42 +74,42 @@
 
 <img src="./day_5/header.png" />
 
-### [Day 5: HTML/CSS 고급 활용 1 – 반응형 웹과 변수](./XX-Still-Writing.md)
+### [Day 5: HTML/CSS 고급 활용 1 – 반응형 웹과 변수](./day_5/README.md)
 
-- [01. CSS 전역 변수 (Custom Properties)](./XX-Still-Writing.md)
-- [02. 반응형 웹의 기본 원리 이해하기](./XX-Still-Writing.md)
-- [03. @media를 활용한 해상도 대응](./XX-Still-Writing.md)
-- [04. @media를 활용한 테마 설정 (prefers-color-scheme)](./XX-Still-Writing.md)
-- [05. 실습 1: 반응형 카드 UI 만들기](./XX-Still-Writing.md)
-- [06. 실습 2: 다크/라이트 테마 토글 만들기 (자바스크립트 X)](./XX-Still-Writing.md)
+- [01. CSS 전역 변수 (Custom Properties)](./day_5/01-CSS-Global-Variables.md)
+- [02. 반응형 웹의 기본 원리 이해하기](./day_5/02-Responsive-Web-Basics.md)
+- [03. @media를 활용한 해상도 대응](./day_5/03-Media-Queries-for-Resolution.md)
+- [04. @media를 활용한 테마 설정 (prefers-color-scheme)](./day_5/04-Media-Queries-for-Theme.md)
+- [05. 실습 1: 반응형 카드 UI 만들기](./day_5/05-Practice-1-Responsive-Card-UI.md)
+- [06. 실습 2: 다크/라이트 테마 토글 만들기 (자바스크립트 X)](./day_5/06-Practice-2-Theme-Toggle-No-JS.md)
 
 <img src="./day_6/header.png" />
 
-### [Day 6: HTML/CSS 고급 활용 2 – 테마와 사용자 정의 속성](./XX-Still-Writing.md)
+### [Day 6: HTML/CSS 고급 활용 2 – 테마와 사용자 정의 속성](./day_6/README.md)
 
-- [01. HTML의 `data-*` 속성 이해하기](./XX-Still-Writing.md)
-- [02. `data-theme`을 활용한 테마 전환](./XX-Still-Writing.md)
-- [03. 다크/라이트 테마 커스터마이징 (CSS 변수 기반)](./XX-Still-Writing.md)
-- [04. CSS 전환 애니메이션으로 부드러운 테마 전환](./XX-Still-Writing.md)
-- [05. 실습 1: 토글 버튼으로 테마 바꾸기 (JS 포함)](./XX-Still-Writing.md)
-- [06. 실습 2: 전체 사이트에 테마 적용하기](./XX-Still-Writing.md)
+- [01. HTML의 `data-*` 속성 이해하기](./day_6/01-Understanding-Data-Attributes.md)
+- [02. `data-theme`을 활용한 테마 전환](./day_6/02-Theme-Switching-with-Data-Theme.md)
+- [03. 다크/라이트 테마 커스터마이징 (CSS 변수 기반)](./day_6/03-Customizing-Themes-with-CSS-Variables.md)
+- [04. CSS 전환 애니메이션으로 부드러운 테마 전환](./day_6/04-Smooth-Theme-Transitions-with-CSS.md)
+- [05. 실습 1: 토글 버튼으로 테마 바꾸기 (JS 포함)](./day_6/05-Practice-1-Theme-Toggle-with-JS.md)
+- [06. 실습 2: 전체 사이트에 테마 적용하기](./day_6/06-Practice-2-Applying-Themes-to-a-Whole-Site.md)
 
 <img src="./day_7/header.png" />
 
-### [Day 7: AI를 활용한 HTML & CSS 개발 보조](./XX-Still-Writing.md)
+### [Day 7: AI를 활용한 HTML & CSS 개발 보조](./day_7/README.md)
 
-- [01. ChatGPT를 활용한 코드 초안 작성](./XX-Still-Writing.md)
-- [02. 시안 설명으로부터 코드 생성하기 (프롬프트 작성법)](./XX-Still-Writing.md)
-- [03. 코드 리뷰 및 개선 요청하기 (AI를 통한 협업)](./XX-Still-Writing.md)
-- [04. 실습 1: Figma 디자인을 설명하고 코드 생성 요청하기](./XX-Still-Writing.md)
-- [05. 실습 2: CSS 버그를 AI와 함께 해결해보기](./XX-Still-Writing.md)
+- [01. ChatGPT를 활용한 코드 초안 작성](./day_7/01-Drafting-Code-with-ChatGPT.md)
+- [02. 시안 설명으로부터 코드 생성하기 (프롬프트 작성법)](./day_7/02-Generating-Code-from-Designs.md)
+- [03. 코드 리뷰 및 개선 요청하기 (AI를 통한 협업)](./day_7/03-Code-Review-and-Improvement-with-AI.md)
+- [04. 실습 1: Figma 디자인을 설명하고 코드 생성 요청하기](./day_7/04-Practice-1-Generating-Code-from-Figma-Designs.md)
+- [05. 실습 2: CSS 버그를 AI와 함께 해결해보기](./day_7/05-Practice-2-Debugging-CSS-with-AI.md)
 
 <img src="./day_8/header.png" />
 
-### [Day 8: 포트폴리오 사이트 디자인 및 발표](./XX-Still-Writing.md)
+### [Day 8: 포트폴리오 사이트 디자인 및 발표](./day_8/README.md)
 
-- [01. 나만의 포트폴리오 주제 정하기](./XX-Still-Writing.md)
-- [02. Figma로 와이어프레임 및 시안 제작](./XX-Still-Writing.mdd)
-- [03. HTML/CSS 기반의 정적 웹사이트 구축](./XX-Still-Writing.md)
-- [04. 실습: 개별 포트폴리오 사이트 만들기](./XX-Still-Writing.md)
-- [05. 발표 및 피드백](./XX-Still-Writing.mdd)
+- [01. 나만의 포트폴리오 주제 정하기](./day_8/01-Choosing-a-Portfolio-Theme.md)
+- [02. Figma로 와이어프레임 및 시안 제작](./day_8/02-Creating-Wireframes-and-Designs-in-Figma.md)
+- [03. HTML/CSS 기반의 정적 웹사이트 구축](./day_8/03-Building-a-Static-Website-with-HTML-CSS.md)
+- [04. 실습: 개별 포트폴리오 사이트 만들기](./day_8/04-Practice-Creating-a-Personal-Portfolio-Site.md)
+- [05. 발표 및 피드백](./day_8/05-Presentation-and-Feedback.md)
