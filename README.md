@@ -64,12 +64,12 @@
 - [02. CSS란?](./day_4/02-What-is-CSS.md)
 - [03. Visual Studio Code](./day_4/03-Visual-Studio-Code.md)
 - [04. 개발자 도구](./day_4/04-Developer-Tool.md)
-- [05. 실습 1: 프로토타입에 화면 전환과 애니메이션 넣기](./day_4/05-Practice-1.md)
-- [06. 프로토타입과 플로우](./day_4/06-Prototype-and-Flow.md)
-- [07. 실습 2: 프로토타입에 화면 전환과 애니메이션 넣기](./day_4/07-Practice-1.md)
-- [08. 실습 3: 컴포넌트 상태와 인터랙션 추가하기](./day_4/08-Practice-2.md)
-- [09. 실습 4: Modal 창 띄우기](./day_4/09-Practice-3.md)
-- [10. 실습 5: 쇼핑 페이지 따라 만들기](./day_4/10-Practice-4.md)
+- [05. 프로토타입과 플로우](./day_4/05-Prototype-and-Flow.md)
+- [06. 실습 1: 프로토타입에 화면 전환과 애니메이션 넣기](./day_4/06-Practice-1.md)
+- [07. 실습 2: 프로토타입에 화면 전환과 애니메이션 넣기](./day_4/07-Practice-2.md)
+- [08. 실습 3: 컴포넌트 상태와 인터랙션 추가하기](./day_4/08-Practice-3.md)
+- [09. 실습 4: Modal 창 띄우기](./day_4/09-Practice-4.md)
+- [10. 실습 5: 쇼핑 페이지 따라 만들기](./day_4/10-Practice-5.md)
 
 <img src="./day_5/header.png" />
 
