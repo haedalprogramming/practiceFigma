@@ -1,8 +1,15 @@
-### [Day 6: HTML/CSS 고급 활용 2 – 테마와 사용자 정의 속성](./README.md)
+# Day 6: UI/UX 실력 더 키우기
 
-- [01. HTML의 `data-*` 속성 이해하기](./01-Understanding-Data-Attributes.md)
-- [02. `data-theme`을 활용한 테마 전환](./02-Theme-Switching-with-Data-Theme.md)
-- [03. 다크/라이트 테마 커스터마이징 (CSS 변수 기반)](./03-Customizing-Themes-with-CSS-Variables.md)
-- [04. CSS 전환 애니메이션으로 부드러운 테마 전환](./04-Smooth-Theme-Transitions-with-CSS.md)
-- [05. 실습 1: 토글 버튼으로 테마 바꾸기 (JS 포함)](./05-Practice-1-Theme-Toggle-with-JS.md)
-- [06. 실습 2: 전체 사이트에 테마 적용하기](./06-Practice-2-Applying-Themes-to-a-Whole-Site.md)
+<img src="./header.png" />
+
+## 목차 (Table of Contents)
+
+- [1. Max/Min 설정](./01-Max-Min-Setting.md)
+- [2. 복습 1: Smart Animate로 부드러운 애니메이션 만들기](./02-Review-1-Smart-Animate.md)
+- [3. 복습 2: 다양한 아이콘 디자인과 제작 규칙들](./03-Review-2-Icon-Design-Rules.md)
+- [4. 실습 1: 아이콘팩 만들기](./04-Practice-1-Icon-Pack.md)
+- [5. 디자인 시스템의 개념과 구축 방법](./05-Design-System-Concept.md)
+- [6. 효율적인 디자인 기획](./06-Efficient-Design-Planning.md)
+- [7. 라이브러리란?](./07-What-is-Library.md)
+- [8. 실습 2: 라이브러리 만들기](./08-Practice-2-Create-Library.md)
+- [9. 실습 3: 장바구니 페이지 만들기](./09-Practice-3-Shopping-Cart.md)
