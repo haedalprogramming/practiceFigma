@@ -1,6 +1,6 @@
 <img src="./header.png" />
 
-# 11. 실습 5: Modal 창 띄우기
+# 9. 실습 4: Modal 창 띄우기
 
 ### 설명
 
