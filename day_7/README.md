@@ -1,7 +1,18 @@
-### [Day 7: AI를 활용한 HTML & CSS 개발 보조](./README.md)
+# Day 7: AI를 활용한 웹 개발 및 배포
 
-- [01. ChatGPT를 활용한 코드 초안 작성](./01-Drafting-Code-with-ChatGPT.md)
-- [02. 시안 설명으로부터 코드 생성하기 (프롬프트 작성법)](./02-Generating-Code-from-Designs.md)
-- [03. 코드 리뷰 및 개선 요청하기 (AI를 통한 협업)](./03-Code-Review-and-Improvement-with-AI.md)
-- [04. 실습 1: Figma 디자인을 설명하고 코드 생성 요청하기](./04-Practice-1-Generating-Code-from-Figma-Designs.md)
-- [05. 실습 2: CSS 버그를 AI와 함께 해결해보기](./05-Practice-2-Debugging-CSS-with-AI.md)
+<img src="./header.png" />
+
+## 목차 (Table of Contents)
+
+- [Etc. ChatGPT를 활용한 학습 가이드](./00-Learning-With-AI.md)
+- [1. Vibe-Coding이란?](./01-What-is-Vibe-Coding.md)
+- [2. MCP란?](./02-What-is-MCP.md)
+- [3. Figma MCP](./03-Figma-MCP.md)
+- [4. Copilot 설치 및 사용하기](./04-Install-and-Use-Copilot.md)
+- [5. Figma MCP 설치 및 사용하기](./05-Install-and-Use-Figma-MCP.md)
+- [6. AI가 구현을 잘하게 유도하기](./06-Guiding-AI-for-Better-Implementation.md)
+- [7. Git과 GitHub](./07-Git-and-GitHub.md)
+- [8. GitHub에 내 코드 올리기](./08-Upload-Code-to-GitHub.md)
+- [9. 실습 1: 랜딩 페이지 만들기](./09-Practice-1-Landing-Page.md)
+- [10. 실습 2: 계산기 만들기 1](./10-Practice-2-Calculator-1.md)
+- [11. 실습 2: 계산기 만들기 2](./11-Practice-2-Calculator-2.md)

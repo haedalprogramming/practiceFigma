@@ -1,7 +1,12 @@
-### [Day 8: 포트폴리오 사이트 디자인 및 발표](./README.md)
+# Day 8: 나만의 가상 서비스 목업 제작 및 동료 피드백
 
-- [01. 나만의 포트폴리오 주제 정하기](./01-Choosing-a-Portfolio-Theme.md)
-- [02. Figma로 와이어프레임 및 시안 제작](./02-Creating-Wireframes-and-Designs-in-Figma.md)
-- [03. HTML/CSS 기반의 정적 웹사이트 구축](./03-Building-a-Static-Website-with-HTML-CSS.md)
-- [04. 실습: 개별 포트폴리오 사이트 만들기](./04-Practice-Creating-a-Personal-Portfolio-Site.md)
-- [05. 발표 및 피드백](./05-Presentation-and-Feedback.md)
+<img src="./header.png" />
+
+## 목차 (Table of Contents)
+
+- [01. 8일차 목표](./01-Day-8-Goal.md)
+- [02. 아이디어 구체화 및 와이어프레임 제작](./02-Idea-Wireframe.md)
+- [03. 가상 서비스 목업 디자인](./03-Virtual-Service-Mockup.md)
+- [04. 완성된 디자인을 AI로 구현하고 GitHub에 올리기](./04-AI-Implementation-and-GitHub.md)
+- [05. Netlify로 자신의 프로젝트 배포하기](./05-Deploy-with-Netlify.md)
+- [06. 발표 및 GitHub Issue를 활용한 동료 피드백](./06-Presentation-and-Feedback.md)
